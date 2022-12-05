@@ -1,1 +1,2 @@
 #define CHANGE_THIS_NAME	1
+#define TEST 1000
